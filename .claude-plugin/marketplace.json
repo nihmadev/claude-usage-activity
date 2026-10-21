@@ -1,0 +1,11 @@
+{
+  "name": "usage-activity",
+  "owner": { "name": "nihmadev" },
+  "plugins": [
+    {
+      "name": "usage-activity",
+      "source": "./",
+      "description": "Activity panel on a new chat, from your local Claude Code transcripts"
+    }
+  ]
+}

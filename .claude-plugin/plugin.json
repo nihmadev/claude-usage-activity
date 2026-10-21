@@ -1,0 +1,9 @@
+{
+  "name": "usage-activity",
+  "version": "0.1.0",
+  "description": "Activity panel on a new chat: sessions, messages, tokens, a heatmap and a per-model chart, read from your local Claude Code transcripts",
+  "author": { "name": "nihmadev" },
+  "license": "MIT",
+  "keywords": ["usage", "activity", "tokens", "heatmap", "desktop"],
+  "types": "./types/index.d.ts"
+}
